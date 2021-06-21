@@ -3,15 +3,15 @@
 Access point:
 =============
 
-- Obtener Lista \n
-  server/api/v1/owners
+- Obtener Lista
+    server/api/v1/owners
 
 - Obtener por id
-  server/api/v1/owners/ID
+    server/api/v1/owners/ID
 
 - Create
-  server/api/v1/owners/create
+    server/api/v1/owners/create
  
- - Create
-  server/api/v1/owners/update/ID
+- Update
+    server/api/v1/owners/update/ID
   
